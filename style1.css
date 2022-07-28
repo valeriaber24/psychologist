@@ -1,0 +1,113 @@
+
+:root{
+    font-family: Noto Sans, sans-serif;
+}
+header{
+    width: 751px;
+    height: 235px; 
+    background-color: #2d7053;
+    display: flex;
+}
+.krug{
+    padding: 3em;
+}
+.info{
+    padding: 3em;
+    padding-left: 0px;
+    color: white;
+
+}
+.nav{
+    padding-left: 200px;
+    padding-top: 50px;
+    padding-right: 20px;
+}
+.imgb{
+    width: 751px;
+    height: 466px;
+    background-image: url('imgback.png');
+}
+.zap {
+    position: absolute;
+    background-color: #cb9223;
+    width:341px;
+    height:74px;
+    top: 600px;
+    left: 220px;
+    color: white;
+}
+.zap p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+.psiho{
+    display: flex;
+}
+.fotops{  
+    padding-top: 60px;
+    padding-left: 30px;
+}
+.name{
+    margin-top: 130px;
+    margin-left: 130px;
+    width: min-content;
+}
+.story{
+    width: 600px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.reasons{
+    margin-left: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.reasons2{
+    width: 600px;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.zap2{
+        position: absolute;
+        background-color: #cb9223;
+        width:341px;
+        height:74px;
+        top: 600px;
+        left: 220px;
+        color: white;
+        top: 1445px;
+
+}
+.zap2 p{
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+}
+footer{
+    width: 751px;
+    height: 120px; 
+    background-color: #888888;
+    display: flex;
+    margin-top: 170px;
+}
+.footer1{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.address{
+    margin-left: 200px;
+    margin-top: 90px;
+}
+.phone{
+    margin-top: 70px;
+    margin-left: 30px;
+}
